@@ -1,0 +1,7 @@
+# Instal:Cli
+
+sudo apt-get install wget
+
+wget https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/master/juicefilemanager3.2.2.py
+
+python /dir/to/file/juicefilemanager3.2.2.py
