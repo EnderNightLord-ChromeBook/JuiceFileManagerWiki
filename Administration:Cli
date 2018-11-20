@@ -1,0 +1,7 @@
+Administration:Cli
+
+To use root permissions:
+
+--> sudo su and then run /dir/to/file/juicefilemanager3.2.2.py
+Or
+--> sudo python /dir/to/file/juicefilemanager3.2.2.py
