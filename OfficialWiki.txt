@@ -1,0 +1,17 @@
+For Juice File Manager 3.2.2 and below 
+
+Installation:
+############################
+
+sudo apt-get install wget
+
+wget https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/master/juicefilemanager3.2.2.py
+
+python /dir/to/file/juicefilemanager3.2.2.py
+
+Administration Permissions:
+############################
+
+--> sudo su and then run /dir/to/file/juicefilemanager3.2.2.py
+Or
+--> sudo python /dir/to/file/juicefilemanager3.2.2.py
